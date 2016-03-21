@@ -27,7 +27,7 @@
 			<div class="collapse navbar-collapse navbar-ex1-collapse">
 				<ul class="nav navbar-nav">
 					<li class="active"><a href="https://twitter.com/?lang=es">twitter</a></li>
-					<li><a href="https://www.youtube.com/">youtuve</a></li>
+					<li><a href="https://www.youtube.com/">youtubee</a></li>
 				</ul>
 				<form class="navbar-form navbar-left" role="search">
 					<div class="form-group">
@@ -38,7 +38,7 @@
 				<ul class="nav navbar-nav navbar-right">
 					<li><a href="https://es-la.facebook.com/">facebook</a></li>
 					<li class="dropdown">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown">email <b class="caret"></b></a>
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown">correo <b class="caret"></b></a>
 						<ul class="dropdown-menu">
 							<li><a href="#">Action</a></li>
 							<li><a href="#">Another action</a></li>
@@ -102,10 +102,10 @@
 <script src="public/js/bootstrap.js"></script>
 <audio autobuffer autoloop loop controls>
 	<source src="public/audio/1.mp3">
-	<source src="">
+	<source src="public/audio/1.mp3">
 	
-<audio src="public/audio/1.mp3" autobuffer autoloop loop controls></audio>
-<video src="public/video/1.mp4" autobuffer autoloop loop controls poster="public/video/1.mp4"></video>
+
+
 
 </body>
 </html>
